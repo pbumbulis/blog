@@ -1,0 +1,26 @@
+# Build output
+public/
+.quartz-cache/
+
+# Dependencies
+node_modules/
+
+# Obsidian
+.obsidian/
+
+# Content that should never be published
+private/
+drafts/
+templates/
+
+# TypeScript
+tsconfig.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc Quartz/Replit leftovers
+prof
+.replit
+replit.nix
